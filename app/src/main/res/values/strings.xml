@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ایمن پیام</string>
+    <string name="search_hint">جستجو</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="login">ورود</string>
+    <string name="activation">فعال سازی</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="title_activity_set_pass">تنظیم رمزعبور</string>
+    <string name="title_activity_send_message">ارسال پیام</string>
+</resources>

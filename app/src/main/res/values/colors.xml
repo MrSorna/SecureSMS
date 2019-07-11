@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sender">#e6e6e6</color>
+    <color name="me">#cbcbcb</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="frontDark">#174fa2</color>
+    <color name="front">#2065ca</color>
+    <color name="frontHint">#97baf1</color>
+    <color name="item">#e6e6e6</color>
+    <color name="itemSelect">#cbcbcb</color>
+    <color name="itemSelected">#379c00</color>
+    <color name="background">#fdfdfd</color>
+    <color name="black">#000</color>
+    <color name="dialogBackground">#bcfdfdfd</color>
+
+
+
+
+    <color name="icon_enabled">#FFFFFFFF</color>
+    <color name="icon_disabled">#2065ca</color>
+    <color name="sent">#eaf10c</color>
+    <color name="deliver">#0cf123</color>
+
+</resources>
